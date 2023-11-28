@@ -1,7 +1,7 @@
 # AccessibleWebsite
 
 ## Description
-This is a demo website for the search engine optimization "company" Horiseon. Its code has been revised to be more accessible and organized, alt text was given to the imaged and a broken link was fixed.
+This is a demo website for the search engine optimization "company" Horiseon. Its code has been revised to be more accessible and organized, alt text was given to the images and a broken link was fixed.
 
 ## License
 MIT
